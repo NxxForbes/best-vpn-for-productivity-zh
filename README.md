@@ -1,7 +1,6 @@
 # 2026 年 VPN 深度测评：五款主流产品横向对比
 
-**语言版本 / Languages：**
-[🇺🇸 English](../) · 🇨🇳 中文（当前）· [🇯🇵 日本語](../ja/) · [🇷🇺 Русский](../ru/) · [🇪🇸 Español](../es/) · [🇸🇦 العربية](../ar/)
+**语言版本 / Languages：** [🇺🇸 English](https://github.com/NxxForbes/best-vpn-for-productivity) · 🇨🇳 中文（当前）· [🇷🇺 Русский](https://github.com/NxxForbes/best-vpn-for-productivity-ru) · [🇸🇦 العربية](https://github.com/NxxForbes/best-vpn-for-productivity-ar)
 
 ---
 
